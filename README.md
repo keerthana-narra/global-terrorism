@@ -1,6 +1,6 @@
 # Global-terrorism
 The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
-
+# PPT - https://docs.google.com/presentation/d/1NKRSELg3MNzS7St-k7epxc3IKJgrWj98VcIKjwnA0hQ/edit?usp=sharing 
 # Explore and analyze the data to discover key findings pertaining to terrorist activities.
 
 Abstract: With details on various dimensions of each attack, the GTD familiarizes analysts, policymakers, scholars, and journalists with patterns of terrorism. The GTD defines terrorist attacks as: The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation.
